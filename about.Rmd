@@ -1,0 +1,12 @@
+---
+title: "About"
+author: "Nicole Sullivan"
+date: "11/1/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+About this project.
