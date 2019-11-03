@@ -1,0 +1,8 @@
+# Typology A
+
+Banner here
+
+Text here
+
+<iframe src="https://public.tableau.com/views/A_15726725807390/A?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameBorder="0" allowFullScreen />
+

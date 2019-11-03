@@ -1,11 +1,35 @@
-name: "my-website"
+name: "website"
 navbar:
-  title: "Suburban Change"
+  title: "Twin Cities Suburban Change"
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-    output:
-      html_document:
+    - text: "Typologies"
+      menu:
+        - text: "Typologies"   
+          href: typologies.html
+        - text: "Typology A"
+          href: typology-a.html
+        - text: "Typology B"
+          href: typology-b.html
+        - text: "Typology C"
+          href: typology-c.html
+        - text: "Typology D"
+          href: typology-d.html
+        - text: "Typology E"
+          href: typology-e.html
+        - text: "Typology F"
+          href: typology-f.html
+        - text: "Typology G"
+          href: typology-g.html
+        - text: "---------"
+    - text: "Explore"
+      href: explore.html
+    - text: "Background"
+      href: background.html
+    - text: "Methodology"
+      href: methodology.html
+    - icon: fa-gear
+      
+output:
+    html_document:
         theme: sandstone
+        css: css/styles.css
