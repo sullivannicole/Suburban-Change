@@ -20,7 +20,6 @@ navbar:
           href: typology-f.html
         - text: "Typology G"
           href: typology-g.html
-        - text: "---------"
     - text: "Explore"
       href: explore.html
     - text: "Background"
