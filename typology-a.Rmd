@@ -1,8 +1,9 @@
-# Typology A
-
-Banner here
-
+<div class = "typology-header"> ![](imgs/A_header.png) </div>
+<div class = "typology-container">
+<div class = "typology-text">
 Type A census tracts are long-standing communities of color with the highest and increasing percentages of people of color in the study area. These tracts, which have poverty rates well above the study area averages, are home to residents with the lowest median household incomes and among all types. Population in these areas is very young. Type A areas have the lowest percentage of people who are 65 and older and their older adult population is not increasing much. They also have the lowest percentage of school-age children and this percentage is increasing rapidly in suburban tracts.
+<br>
+<br>
 Type A tracts have the oldest and the most affordable housing stock among all types, with the lowest median home values in the study area. In contrast to most types where median home values have been increasing, in Type A tracts median home values have continued to decline in the aftermath of the recession. While home values haven’t yet bounced back from the housing crisis, rents in Type A tracts have been increasing. New construction activity in Type A suburban tracts has been limited in comparison to most other types and it has taken place mostly in the less developed parts of Brooklyn Park.
 <br>
 <br>
@@ -10,11 +11,20 @@ If the trends in declining median home values persist, Type A census tracts migh
 <br>
 <br>
 Ensuring the vitality of these census tracts might also require public subsidies that can help stimulate market demand in these areas. For instance, strategic place-making investments that take advantage of growing racial and cultural diversity can boost private investment in Type A tracts. Similarly, supporting and attracting businesses oriented toward the needs of a more racially diverse clientele might not only enhance the economic standing of these areas, but also appeal to the changing preferences of the residents.
-<br>
-<br>
-## Geography
+</div>
+
+<div class = "typology-stats">
+![](imgs/A_key_stats.png)
+  </div>
+</div>
+
+<div class = "typology-viz">
+<b> Geography </b>
 
 Bar charts here.
 
-<iframe src="https://public.tableau.com/views/A_15726725807390/A?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" />
+<iframe src="https://public.tableau.com/views/A_15726725807390/A?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" width = "100%" height = "600" frameBorder = "0" />
+</div>
+
+
 

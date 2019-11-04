@@ -1,4 +1,6 @@
-# Typology E
+<br>
+<br>
+# Typology E [Banner here]
 
 These are mostly fully developed census tracts with high median home values—second highest after Type D—that has been increasing since 2010 after a sharp decline during the 2000s. While these areas are well-established older communities, they have experienced significant large-scale, high-density infill and redevelopment activity, especially in locations near transportation networks and established and growing job centers. This distinct development pattern has created bifurcated demographic and housing market trends in Type E areas.
 <br>
@@ -13,3 +15,7 @@ These high-density properties continue to attract significant numbers of working
 <br>
 <br>
 In Type E census tracts, careful planning of large-scale, high-density infill and redevelopment projects offer multiple opportunities for improving the built environment of these tracts. Smooth integration of new projects into the existing fabric of these tracts could be occasions for increasing walkability and enriching the streetscape. Programming for older adults including volunteer opportunities could also be useful to meet the changing needs of residents in Type E tracts.
+
+## Geography
+
+<iframe src = "https://public.tableau.com/views/E_15726731867990/ClusterB?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" width = "100%" height = "600" frameBorder = "0" allowFullScreen />

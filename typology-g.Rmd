@@ -10,3 +10,7 @@ Type G areas might experience a surplus of high-end single-family housing as agi
 <br>
 <br>
 These census tracts are not likely to have significant development-related challenges other than natural resource protection. For instance, water quality and storm water management are issues that might need to be prioritized. Recreational opportunities as well as programmatic services for older adults might serve the interests of the residents well in these tracts. 
+
+## Geography
+
+<iframe src = "https://public.tableau.com/views/G_15726733756050/ClusterD?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" width = "100%" height = "600" frameBorder = "0" allowFullScreen />

@@ -24,5 +24,5 @@ If the trends in declining median home values persist, Type B census tracts migh
 
 Bar charts here.
 
-<iframe src="https://public.tableau.com/views/A_15726725807390/A?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" />
+<iframe src="https://public.tableau.com/views/A_15726725807390/A?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" width = "100%" height = "600" frameBorder = "0" />
 
