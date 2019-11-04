@@ -1,0 +1,46 @@
+/*
+*
+* =====================
+* BODY
+* =====================
+*
+*/
+
+html *
+{
+   font-family: Avenir;
+}
+
+/*
+*
+* =====================
+* NAVBAR
+* =====================
+*
+*/
+.navbar {
+  font-family: "Avenir";
+}
+
+.navbar .navbar-header {
+  font-family: "Avenir";
+  font-size: 70px;
+}
+.navbar .nav-link {
+  font-family: "Arial";
+  font-weight: 700;
+  color: #555;
+}
+
+.navbar .nav-link:hover {
+  color: #5091da;
+}
+
+.navbar-toggler {
+  outline: none;
+}
+
+.navbar-toggler:hover, .navbar-toggler:focus {
+  background: #5091da;
+  color: #fff;
+}
