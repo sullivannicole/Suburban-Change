@@ -8,7 +8,7 @@
 
 html *
 {
-   font-family: Avenir;
+   font-family: Century Gothic;
 }
 
 /*
@@ -221,6 +221,35 @@ body{
 .column-g-jurisdictions {
   grid-column: 2;
   grid-row: 2;
+}
+
+/*
+*
+* =====================
+* INDIVIDUAL TYPOLOGY PAGES
+* =====================
+*
+*/
+.typology-header{
+  grid-column
+}
+
+.typology-container{
+    grid-column: col / span 3;
+    grid-row: row 2;
+    display: grid;
+  grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.typology-text{
+  grid-column: col /span 2;
+  grid-row: row 2;
+}
+
+.typology-stats{
+  grid-column: col 3 / span 1;
+  grid-row: row 2;
 }
 
 /*
