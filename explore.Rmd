@@ -1,1 +1,1 @@
-<iframe src = "https://public.tableau.com/views/Explore_15728972803760/Explore?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" style="position: absolute; left: 0; width: 100%; height: 100%;" frameBorder="0" allowFullScreen />
+<iframe src = "https://public.tableau.com/views/Explore_15728972803760/Explore?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" style="position: absolute; left: 0; width: 100vw; height: 100vh;" frameBorder="0"></iframe>
