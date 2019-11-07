@@ -326,12 +326,14 @@ body{
 *
 */
 
+
 .fold-btn {
   float: right;
   background-color: white;
   font-size: 25px;
   color: #027b8e;
   font-weight: bold;
+  border-width: 0;
 }
 
 .fold-chunk {
