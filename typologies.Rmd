@@ -2,6 +2,15 @@
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<style type="text/css">
+.wrapper {
+  display: grid;
+  margin: 0;
+  padding: 0;
+}
+</style>
+
+<div class = "typologies-wrapper">
 <br>
 <br>
 <center><b> <h1>What is a typology?</h1> </b></strong>
@@ -9,7 +18,6 @@ knitr::opts_chunk$set(echo = TRUE)
 <center> A typology is a group of census tracts in the Twin Cities region that have shared similar trends of demographic, built environment, and housing market changes from 2000 through 2017.</center>
 <br>
 <center> [More about the study and methodology](https://sullivannicole.github.io/Suburban-Change/background.html) </center>
-
 ---------------------
 <b> <h1>Typologies</h1> </b>
 <br>
@@ -238,6 +246,7 @@ dulce et decorum est.
   </div>
 </div>
 
+</div>
 </div>
 
 

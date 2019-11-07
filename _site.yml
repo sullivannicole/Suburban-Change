@@ -26,7 +26,8 @@ navbar:
       href: background.html
     - text: "Methodology"
       href: methodology.html
-    - icon: fa-gear
+    - icon: fa-code-fork
+      href: code-repos.html
       
 output:
     html_document:

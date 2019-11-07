@@ -1,5 +1,21 @@
-# Typology G
+<style type="text/css">
+.main-container {
+  max-width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+}
+img{
+width: 100vw;
+}
+</style>
 
+<script src="js/code_folding.js"></script>
+
+<img src="imgs/G_header.png" />
+
+<div class = "typology-container">
+<div class = "typology-text">
 The racial composition of Type G tracts distinguishes them from all the other types in the study area. These tracts have the lowest percentage of people of color among all types. These areas have experienced the smallest increase in racial and ethnic diversity and have stayed primarily white during the study period. Type G tracts were among the wealthiest, with the highest median incomes in the study area. Despite below-average population growth, the share of residents 65 years or older in Type G tracts increased faster than any other type.
 <br>
 <br>
@@ -10,7 +26,79 @@ Type G areas might experience a surplus of high-end single-family housing as agi
 <br>
 <br>
 These census tracts are not likely to have significant development-related challenges other than natural resource protection. For instance, water quality and storm water management are issues that might need to be prioritized. Recreational opportunities as well as programmatic services for older adults might serve the interests of the residents well in these tracts. 
+</div>
 
-## Geography
+<div class = "typology-stats">
+![](imgs/G_key_stats.png)
+  </div>
+</div>
 
-<iframe src = "https://public.tableau.com/views/G_15726733756050/ClusterD?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" width = "100%" height = "600" frameBorder = "0" allowFullScreen />
+<div class = "typology-viz-container">
+<div class = "typology-viz">
+<div class = "viz-header" style = "padding-bottom: 20px"><b><h2> Geography </h2></b></div>
+<iframe src = "https://public.tableau.com/views/G_15726733756050/ClusterD?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" width = "100%" height = "700" frameBorder = "0" ></iframe>
+</div>
+</div>
+
+<div class = "issues-strategies">
+<b><h2> Issues + Strategies </h2></b>
+
+dulce et decorum est. dulce et decorum est. dulce et decorum est. <br>
+dulce et decorum est. dulce et decorum est. dulce et decorum est.
+
+----------------
+
+<b><h3> Issue1 </b></h3>
+dulce et decorum est. dulce et decorum est. dulce et decorum est. <br>
+dulce et decorum est. dulce et decorum est. dulce et decorum est.
+
+<b><h3>Strategies</b></h3>
+<h4>Strategy1</h4>
+
+```{fold, class.source = "fold-chunk"}
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+
+```
+
+<h4>Strategy2</h4>
+```{fold, class.source = "fold-chunk"}
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+
+```
+
+<b><h3> Issue2 </b></h3>
+dulce et decorum est. dulce et decorum est. dulce et decorum est. <br>
+dulce et decorum est. dulce et decorum est. dulce et decorum est.
+
+<b><h3>Strategies</b></h3>
+<h4>Strategy1</h4>
+
+```{fold, class.source= "fold-chunk"}
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+```
+
+<h4>Strategy2</h4>
+```{fold, class.source = "fold-chunk"}
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+```
+
+-----------------
+
+</div>

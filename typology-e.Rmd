@@ -1,7 +1,21 @@
-<br>
-<br>
-# Typology E [Banner here]
+<style type="text/css">
+.main-container {
+  max-width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+}
+img{
+width: 100vw;
+}
+</style>
 
+<script src="js/code_folding.js"></script>
+
+<img src="imgs/E_header.png" />
+
+<div class = "typology-container">
+<div class = "typology-text">
 These are mostly fully developed census tracts with high median home values—second highest after Type D—that has been increasing since 2010 after a sharp decline during the 2000s. While these areas are well-established older communities, they have experienced significant large-scale, high-density infill and redevelopment activity, especially in locations near transportation networks and established and growing job centers. This distinct development pattern has created bifurcated demographic and housing market trends in Type E areas.
 <br>
 <br>
@@ -15,7 +29,78 @@ These high-density properties continue to attract significant numbers of working
 <br>
 <br>
 In Type E census tracts, careful planning of large-scale, high-density infill and redevelopment projects offer multiple opportunities for improving the built environment of these tracts. Smooth integration of new projects into the existing fabric of these tracts could be occasions for increasing walkability and enriching the streetscape. Programming for older adults including volunteer opportunities could also be useful to meet the changing needs of residents in Type E tracts.
+</div>
 
-## Geography
+<div class = "typology-stats">
+![](imgs/E_key_stats.png)
+  </div>
+</div>
 
-<iframe src = "https://public.tableau.com/views/E_15726731867990/ClusterB?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" width = "100%" height = "600" frameBorder = "0" allowFullScreen />
+<div class = "typology-viz-container">
+<div class = "typology-viz">
+<div class = "viz-header" style = "padding-bottom: 20px"><b><h2> Geography </h2></b></div>
+<iframe src = "https://public.tableau.com/views/E_15726731867990/ClusterB?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" width = "100%" height = "700" frameBorder = "0" ></iframe>
+</div>
+</div>
+
+<div class = "issues-strategies">
+<b><h2> Issues + Strategies </h2></b>
+
+dulce et decorum est. dulce et decorum est. dulce et decorum est. <br>
+dulce et decorum est. dulce et decorum est. dulce et decorum est.
+
+----------------
+
+<b><h3> Issue1 </b></h3>
+dulce et decorum est. dulce et decorum est. dulce et decorum est. <br>
+dulce et decorum est. dulce et decorum est. dulce et decorum est.
+
+<b><h3>Strategies</b></h3>
+<h4>Strategy1</h4>
+
+```{fold, class.source = "fold-chunk"}
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+
+```
+
+<h4>Strategy2</h4>
+```{fold, class.source = "fold-chunk"}
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+
+```
+
+<b><h3> Issue2 </b></h3>
+dulce et decorum est. dulce et decorum est. dulce et decorum est. <br>
+dulce et decorum est. dulce et decorum est. dulce et decorum est.
+
+<b><h3>Strategies</b></h3>
+<h4>Strategy1</h4>
+
+```{fold, class.source= "fold-chunk"}
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+```
+
+<h4>Strategy2</h4>
+```{fold, class.source = "fold-chunk"}
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+dulce et decorum est
+```
+
+-----------------
+</div>

@@ -1,0 +1,6 @@
+<br>
+<br>
+<br>
+<h1>Fork the Repo</h1>
+<br>
+Find us on GitHub!  The methodology for this project is contained in the repo sullivannicole/Suburban-Neighborhoood-Change.  This site is an R website and code is contained in the repo sullivannicole/Suburban-Change.
