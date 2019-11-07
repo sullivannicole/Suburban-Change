@@ -10,7 +10,7 @@ width: 100vw;
 }
 </style>
 
-<script src="js/code_folding.js"></script>
+<script src="js/text_folding.js"></script>
 
 <img src="imgs/D_header.png" />
 
