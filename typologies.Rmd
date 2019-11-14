@@ -1,7 +1,3 @@
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 <style type="text/css">
 .wrapper {
   display: grid;
@@ -13,13 +9,13 @@ knitr::opts_chunk$set(echo = TRUE)
 <div class = "typologies-wrapper">
 <br>
 <br>
-<center><b> <h1>What is a typology?</h1> </b></strong>
+<center><b> <h1>What makes a type?</h1> </b></strong>
 <br>
-<center> A typology is a group of census tracts in the Twin Cities region that have shared similar trends of demographic, built environment, and housing market changes from 2000 through 2017.</center>
+<center> A type is a group of census tracts in the Twin Cities region that have shared similar trends of demographic, built environment, and housing market changes from 2000 through 2017.</center>
 <br>
 <center> [More about the study and methodology](https://sullivannicole.github.io/Suburban-Change/background.html) </center>
 ---------------------
-<b> <h1>Typologies</h1> </b>
+<b> <h1>Types</h1> </b>
 <br>
 <br>
 <div class = "wrapper">
@@ -30,10 +26,6 @@ knitr::opts_chunk$set(echo = TRUE)
 <div class = "container-a">
 <div class = "paragraph-a"> 
 [![](imgs/a_button.png)](https://sullivannicole.github.io/Suburban-Change/typology-a.html)
-<br>
-<br>
-<br>
-dulce et decorum est.
 </div>
    
 <div class = "column-a-issues">
@@ -55,7 +47,8 @@ dulce et decorum est.
 </div>
 
 <hr size="5" color="grey">
-
+<br>
+<br>
 <div class = "map-b">
 ![](imgs/B.png)
 </div>

@@ -2,23 +2,23 @@ name: "website"
 navbar:
   title: "Twin Cities Suburban Change"
   right:
-    - text: "Typologies"
+    - text: "Types"
       menu:
-        - text: "Typologies"   
-          href: typologies.html
-        - text: "Typology A"
+        - text: "Types"   
+          href: types.html
+        - text: "Type A"
           href: typology-a.html
-        - text: "Typology B"
+        - text: "Type B"
           href: typology-b.html
-        - text: "Typology C"
+        - text: "Type C"
           href: typology-c.html
-        - text: "Typology D"
+        - text: "Type D"
           href: typology-d.html
-        - text: "Typology E"
+        - text: "Type E"
           href: typology-e.html
-        - text: "Typology F"
+        - text: "Type F"
           href: typology-f.html
-        - text: "Typology G"
+        - text: "Type G"
           href: typology-g.html
     - text: "Explore"
       href: explore.html

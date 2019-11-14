@@ -1,11 +1,11 @@
 $(document).ready(function() {
-    $(".fold").prepend("<button class=\"fold-btn\">Unfold</button>");
+    $(".fold").prepend("<button class=\"fold-btn\">+</button>");
     $(".fold").children("code").toggle();
     $(".fold-btn").on("click", function() {
       if($(this).text() === "Fold") {
-        $(this).text("Unfold");
+        $(this).text("+");
       } else {
-        $(this).text("Fold");
+        $(this).text("-");
       }
       $(this).next("code").toggle("linear");
     });

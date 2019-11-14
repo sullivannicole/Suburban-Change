@@ -28,8 +28,24 @@ Type G areas might experience a surplus of high-end single-family housing as agi
 These census tracts are not likely to have significant development-related challenges other than natural resource protection. For instance, water quality and storm water management are issues that might need to be prioritized. Recreational opportunities as well as programmatic services for older adults might serve the interests of the residents well in these tracts. 
 </div>
 
-<div class = "typology-stats">
-![](imgs/G_key_stats.png)
+<div class = "typology-stats-g">
+<h3><b> Demographics </b></h3>
+<ul>
+<li>Share of people of color has remained lowest over time</li>
+<li>Share of residents aged 65+ was low but grew fastest</li>
+<li>Median incomes remained highest</li>
+</ul>
+<h3><b> Built environment </b></h3>
+<ul>
+<li>Significant construction activity that has slowed down</li>
+<li> Exceptional access to natural amenities</li>
+</ul>
+<h3><b> Housing market </b></h3>
+<ul>
+<li>Expensive housing stock</li>
+<li>Remained the most expensive housing stock</li>
+<li>Share of renters continued to be the lowest</li>
+</ul>
   </div>
 </div>
 

@@ -6,8 +6,7 @@
 *
 */
 
-html *
-{
+html * {
    font-family: Century Gothic;
 }
 
@@ -23,10 +22,6 @@ body{
   margin: 0;
 }
 
-.wrapper{
-  display: grid;
-}
-
 .map-a {
   grid-column: col / span 1;
   grid-row: row 2;
@@ -36,7 +31,7 @@ body{
     grid-column: col 2 / span 2;
     grid-row: row 2;
     display: grid;
-  grid-gap: 10px;
+   grid-gap: 10px;
     grid-template-columns: 1fr 1fr;
 }
 
@@ -230,16 +225,33 @@ body{
 * =====================
 *
 */
-.typology-header{
-  grid-column
+.typology-header-container{
+  width: 100vw;
+  background-color: #F5F5F5;
 }
+
+.typology-header{
+  width: 100%;
+  height: auto;
+  background-color: black;
+}
+
+/*.typology-text:before{
+  width: 100%;
+  top: 0;
+  left: 0;
+}*/
 
 .typology-container{
     grid-column: col / span 3;
     grid-row: row 2;
     display: grid;
-  grid-gap: 10px;
-    grid-template-columns: 1fr 1fr;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    grid-gap: 30px;
+    /*grid-template-columns: 1fr 1fr;*/
 }
 
 .typology-text{
@@ -250,6 +262,26 @@ body{
 .typology-stats{
   grid-column: col 3 / span 1;
   grid-row: row 2;
+}
+
+.typology-viz-container{
+  grid-row: row 3;
+  background-color: #F5F5F5;
+}
+
+.typology-viz{
+  grid-row: row 3;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-top: 30px;
+  padding-bottom: 100px;
+  
+}
+.issues-strategies {
+  grid-row: row 4;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-top: 30px;
 }
 
 /*
@@ -284,4 +316,21 @@ body{
 .navbar-toggler:hover, .navbar-toggler:focus {
   background: #5091da;
   color: #fff;
+}
+
+/*
+*
+* =====================
+* FOLDING BUTTON
+* =====================
+*
+*/
+
+.fold-btn {
+  float: right;
+}
+
+.fold-chunk {
+background-color: white;
+border-color: white;
 }

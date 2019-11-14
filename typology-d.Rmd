@@ -29,8 +29,24 @@ Housing markets in Type D census tracts have been resilient throughout the reces
 Growing racial and cultural diversity can bring changes in the needs of the residents. To meet these needs, cities might, for instance, benefit from offering multicultural services and cultural liaisons to facilitate access to city services. Given the high percentage of rental properties in these areas, robust rental inspection programs can help to ensure a high-quality rental housing stock. Similarly, an emphasis on fair housing resources might help residents of color avoid housing discrimination. First-time homeowner assistance programs could help diversify the housing tenure in these areas.
 </div>
 
-<div class = "typology-stats">
-![](imgs/D_key_stats.png)
+<div class = "typology-stats-d">
+<h3><b> Demographics </b></h3>
+<ul>
+<li>High and growing share of people of color</li>
+<li>Immigrant hubs</li>
+<li>Median incomes remained low</li>
+<li>Lowest share of residents under age 18 and residents 65+</li>
+</ul>
+<h3><b> Built environment </b></h3>
+<ul>
+<li>Construction activity remained limited</li>
+</ul>
+<h3><b> Housing market </b></h3>
+<ul>
+<li>Exceptionally high share of renters over time</li>
+<li>Relatively affordable</li>
+<li>Home values and rents increased since recession</li>
+</ul>
   </div>
 </div>
 

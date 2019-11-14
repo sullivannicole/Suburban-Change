@@ -20,6 +20,7 @@ html * {
 
 body{
   margin: 0;
+  padding: 0;
 }
 
 .map-a {
@@ -225,6 +226,7 @@ body{
 * =====================
 *
 */
+
 .typology-header-container{
   width: 100vw;
   background-color: #F5F5F5;
@@ -233,18 +235,11 @@ body{
 .typology-header{
   width: 100%;
   height: auto;
-  background-color: black;
 }
 
-/*.typology-text:before{
-  width: 100%;
-  top: 0;
-  left: 0;
-}*/
-
 .typology-container{
-    grid-column: col / span 3;
-    grid-row: row 2;
+    grid-column: col / span 4;
+    grid-row: row 2 / span 2;
     display: grid;
     padding-top: 1vh;
     padding-bottom: 3vh;
@@ -255,17 +250,61 @@ body{
 }
 
 .typology-text{
-  grid-column: col /span 2;
-  grid-row: row 2;
+  grid-column: col / span 3;
+  grid-row: row 1 / span 2;
 }
 
-.typology-stats{
-  grid-column: col 3 / span 1;
-  grid-row: row 2;
+.typology-stats-a{
+  grid-column: col 4 / span 1;
+  grid-row: row 1 / span 1;
+  border: 1vh solid #027b8e;
+  padding: 4vh;
+}
+
+.typology-stats-b{
+  grid-column: col 4 / span 1;
+  grid-row: row 1 / span 1;
+  border: 1vh solid #74b88a;
+  padding: 4vh;
+}
+
+.typology-stats-c{
+  grid-column: col 4 / span 1;
+  grid-row: row 1 / span 1;
+  border: 1vh solid #31a1b3;
+  padding: 4vh;
+}
+
+.typology-stats-d{
+  grid-column: col 4 / span 1;
+  grid-row: row 1 / span 1;
+  border: 1vh solid #563e68;
+  padding: 4vh;
+}
+
+.typology-stats-e{
+  grid-column: col 4 / span 1;
+  grid-row: row 1 / span 1;
+  border: 1vh solid #76b7b2;
+  padding: 4vh;
+}
+
+.typology-stats-f{
+  grid-column: col 4 / span 1;
+  grid-row: row 1 / span 1;
+  border: 1vh solid #ff9da7;
+  padding: 4vh;
+}
+
+.typology-stats-g{
+  grid-column: col 4 / span 1;
+  grid-row: row 1 / span 1;
+  border: 1vh solid #e377c2;
+  padding: 4vh;
 }
 
 .typology-viz-container{
-  grid-row: row 3;
+  grid-row: row 2 / span 1;
   background-color: #F5F5F5;
 }
 
@@ -291,16 +330,17 @@ body{
 * =====================
 *
 */
+
 .navbar {
-  font-family: "Avenir";
+  font-family: "Century Gothic";
 }
 
 .navbar .navbar-header {
-  font-family: "Avenir";
+  font-family: "Century Gothic";
   font-size: 100px;
 }
 .navbar .nav-link {
-  font-family: "Arial";
+  font-family: "Century Gothic";
   font-weight: 700;
   color: #555;
 }
@@ -409,32 +449,6 @@ border-color: white;
 }
 
 .card-card-body {
-  padding: 1vh;
-  background-color: white;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}
-
-.btn-btn-primary2 {
-  padding: 1.5vh;
-  background-color: grey;
-  color: white;
-  cursor: pointer;
-  width: 100%;
-  text-align: left;
-  border: none;
-  outline: none;
-  transition: 0.4s;
-  font-size: 15px;
-  font-family: Century Gothic;
-}
-
-.btn-btn-primary2:hover {
-  background-color: #F5F5F5;
-  color: grey;
-}
-
-.card-card-body2 {
   padding: 1vh;
   background-color: white;
   overflow: hidden;

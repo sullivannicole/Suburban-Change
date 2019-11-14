@@ -28,8 +28,24 @@ If the trends in declining median home values persist, Type A census tracts migh
 Ensuring the vitality of these census tracts might also require public subsidies that can help stimulate market demand in these areas. For instance, strategic place-making investments that take advantage of growing racial and cultural diversity can boost private investment in Type A tracts. Similarly, supporting and attracting businesses oriented toward the needs of a more racially diverse clientele might not only enhance the economic standing of these areas, but also appeal to the changing preferences of the residents.
 </div>
 
-<div class = "typology-stats">
-![](imgs/A_key_stats.png)
+<div class = "typology-stats-a">
+<h3><b> Demographics </b></h3>
+<ul>
+<li>Established communities of color</li>
+<li>Lowest share of residents aged 65+</li>
+<li>Remained lowest income over time</li>
+</ul>
+<h3><b> Built environment </b></h3>
+<ul>
+<li>Limited construction activity; mostly in the undeveloped parts of the inner-ring suburbs</li>
+</ul>
+<h3><b> Housing market </b></h3>
+<ul>
+<li> Most affordable housing stock </li>
+<li> Home values still declining </li>
+<li> Rents increasing </li>
+<li> Second-highest share of renters </li>
+</ul>
   </div>
 </div>
 

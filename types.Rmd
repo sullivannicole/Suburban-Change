@@ -1,0 +1,289 @@
+<style type="text/css">
+.main-container {
+  max-width: 100%;
+  padding: 0;
+}
+
+.top-container{
+margin-left: 8%;
+margin-right: 8%;
+}
+
+.type-wrapper {
+  display: grid;
+  grid-template-columns: [col1-start] 65% [col2-start] 15% [col3-start] 15% [end];
+  grid-template-rows: [row1-start] 20% [row1-end row2-start] 20% [row2-end row3-start] 25% [end];
+  margin-left: 12%;
+  margin-right: 12%;
+  padding-top: 0;
+}
+
+.type-map{
+grid-column-start: col1-start;
+grid-column-end: col2-start;
+grid-row-start: row1-start;
+grid-row-end: end;
+}
+
+.type-button{
+grid-column-start: col2-start;
+grid-column-end: end;
+grid-row: row1-start / span 1;
+}
+
+.type-text{
+grid-column-start: col2-start;
+grid-column-end: end;
+grid-row: row2-start / span 1;
+text-align: left;
+}
+
+.type-opportunities {
+grid-column-start: col2-start;
+grid-column-end: end;
+grid-row-start: row3-start;
+grid-row-end: end;
+padding-top: 1%;
+}
+
+.type-issues{
+grid-column-start: col2-start;
+grid-column-end: col3-start;
+grid-row-start: row3-start;
+grid-row-end: end;
+}
+
+.type-strategies{
+grid-column-start: col3-start;
+grid-column-end: col4-start;
+grid-row-start: row3-start;
+grid-row-end: end;
+}
+
+
+</style>
+
+<br>
+<br>
+<div class = "top-container">
+<center><b> <h1>What makes a type?</h1> </b></strong>
+<br>
+<center> A type is a group of census tracts in the Twin Cities region that have shared similar trends of demographic, built environment, and housing market changes from 2000 through 2017.</center>
+<br>
+<center> [More about the study and methodology](https://sullivannicole.github.io/Suburban-Change/background.html) </center>
+---------------------
+</div>
+<center><b> <h1>Types</h1> </b></center>
+<br>
+<br>
+<div class = "type-wrapper">
+<div class = "type-map">
+![](imgs/A.png)
+</div>
+
+<div class = "type-button"> 
+<center>[![](imgs/a_button.png)](https://sullivannicole.github.io/Suburban-Change/typology-a.html)</center>
+</div>
+<div class = "type-text">
+<br>
+Established communities of color, lowest income over time, limited construction, most affordable housing stock, increasing rents.
+</div>
+   
+<div class = "type-issues">
+<h3> Issues </h3>
+<br><ul>
+<li>Issue 1</li>
+<li>Issue 2</li>
+<li>Issue 3</li>
+</ul>
+</div>
+
+<div class = "type-strategies">
+<h3> Strategies </h3>
+<br><ul>
+<li>Strategy 1</li>
+<li>Strategy 2</li>
+</ul>
+</div>
+</div>
+
+<div class = "type-wrapper">
+<div class = "type-map">
+![](imgs/B.png)
+</div>
+
+<div class = "type-button"> 
+<center>[![](imgs/b_button.png)](https://sullivannicole.github.io/Suburban-Change/typology-b.html)</center>
+</div>
+<div class = "type-text">
+<br>
+Jurisdictions with high and rapidly increasing diversity, income low but increasing, rents low but increasing
+</div>
+   
+<div class = "type-issues">
+<h3> Issues </h3>
+<br><ul>
+<li>Issue 1</li>
+<li>Issue 2</li>
+<li>Issue 3</li>
+</ul>
+</div>
+
+<div class = "type-strategies">
+<h3> Strategies </h3>
+<br><ul>
+<li>Strategy 1</li>
+<li>Strategy 2</li>
+</ul>
+</div>
+</div>
+
+<div class = "type-wrapper">
+<div class = "type-map">
+![](imgs/C.png)
+</div>
+
+<div class = "type-button"> 
+<center>[![](imgs/c_button.png)](https://sullivannicole.github.io/Suburban-Change/typology-c.html)</center>
+</div>
+<div class = "type-text">
+<br>
+Jurisdictions with a steady inflow of people of color over time, moderate incomes, affordable housing stock, and rents that increased after the recession
+<br>
+</div>
+   
+<div class = "type-opportunities">
+<h3> Opportunities </h3>
+<br><ul>
+<li>Senior Housing</li>
+<li>Age-Friendly Communities</li>
+<li>Housing Stock Preservation</li>
+<li>Sense of Community</li>
+<li>Racial Equity</li>
+</ul>
+</div>
+</div>
+
+<div class = "type-wrapper">
+<div class = "type-map">
+![](imgs/D.png)
+</div>
+
+<div class = "type-button"> 
+<center>[![](imgs/d_button.png)](https://sullivannicole.github.io/Suburban-Change/typology-d.html)</center>
+</div>
+<div class = "type-text">
+<br>
+Established communities of color, lowest income over time, limited construction, most affordable housing stock, increasing rents.
+</div>
+   
+<div class = "type-issues">
+<h3> Issues </h3>
+<br><ul>
+<li>Issue 1</li>
+<li>Issue 2</li>
+<li>Issue 3</li>
+</ul>
+</div>
+
+<div class = "type-strategies">
+<h3> Strategies </h3>
+<br><ul>
+<li>Strategy 1</li>
+<li>Strategy 2</li>
+</ul>
+</div>
+</div>
+
+<div class = "type-wrapper">
+<div class = "type-map">
+![](imgs/E.png)
+</div>
+
+<div class = "type-button"> 
+<center>[![](imgs/e_button.png)](https://sullivannicole.github.io/Suburban-Change/typology-e.html)</center>
+</div>
+<div class = "type-text">
+<br>
+Established communities of color, lowest income over time, limited construction, most affordable housing stock, increasing rents.
+</div>
+   
+<div class = "type-issues">
+<h3> Issues </h3>
+<br><ul>
+<li>Issue 1</li>
+<li>Issue 2</li>
+<li>Issue 3</li>
+</ul>
+</div>
+
+<div class = "type-strategies">
+<h3> Strategies </h3>
+<br><ul>
+<li>Strategy 1</li>
+<li>Strategy 2</li>
+</ul>
+</div>
+</div>
+
+<div class = "type-wrapper">
+<div class = "type-map">
+![](imgs/F.png)
+</div>
+
+<div class = "type-button"> 
+<center>[![](imgs/f_button.png)](https://sullivannicole.github.io/Suburban-Change/typology-f.html)</center>
+</div>
+<div class = "type-text">
+<br>
+Established communities of color, lowest income over time, limited construction, most affordable housing stock, increasing rents.
+</div>
+   
+<div class = "type-issues">
+<h3> Issues </h3>
+<br><ul>
+<li>Issue 1</li>
+<li>Issue 2</li>
+<li>Issue 3</li>
+</ul>
+</div>
+
+<div class = "type-strategies">
+<h3> Strategies </h3>
+<br><ul>
+<li>Strategy 1</li>
+<li>Strategy 2</li>
+</ul>
+</div>
+</div>
+
+<div class = "type-wrapper">
+<div class = "type-map">
+![](imgs/G.png)
+</div>
+
+<div class = "type-button"> 
+<center>[![](imgs/g_button.png)](https://sullivannicole.github.io/Suburban-Change/typology-g.html)</center>
+</div>
+<div class = "type-text">
+<br>
+Established communities of color, lowest income over time, limited construction, most affordable housing stock, increasing rents.
+</div>
+   
+<div class = "type-issues">
+<h3> Issues </h3>
+<br><ul>
+<li>Issue 1</li>
+<li>Issue 2</li>
+<li>Issue 3</li>
+</ul>
+</div>
+
+<div class = "type-strategies">
+<h3> Strategies </h3>
+<br><ul>
+<li>Strategy 1</li>
+<li>Strategy 2</li>
+</ul>
+</div>
+</div>

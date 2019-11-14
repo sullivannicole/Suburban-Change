@@ -31,8 +31,24 @@ These high-density properties continue to attract significant numbers of working
 In Type E census tracts, careful planning of large-scale, high-density infill and redevelopment projects offer multiple opportunities for improving the built environment of these tracts. Smooth integration of new projects into the existing fabric of these tracts could be occasions for increasing walkability and enriching the streetscape. Programming for older adults including volunteer opportunities could also be useful to meet the changing needs of residents in Type E tracts.
 </div>
 
-<div class = "typology-stats">
-![](imgs/E_key_stats.png)
+<div class = "typology-stats-e">
+<h3><b> Demographics </b></h3>
+<ul>
+<li>Mostly white becoming racially/ethnically more diverse</li>
+<li>Highest share of residents aged 65+</li>
+<li>Second-highest median income and increasing</li>
+<li>Influx of educated residents</li>
+</ul>
+<h3><b> Built environment </b></h3>
+<ul>
+<li>Large, high desnity infill development near transportation networks and job centers</li>
+</ul>
+<h3><b> Housing market </b></h3>
+<ul>
+<li>Expensive housing stock</li>
+<li>Infill development: growing rental markets</li>
+<li>High share of renters; increasing rapidly</li>
+</ul>
   </div>
 </div>
 

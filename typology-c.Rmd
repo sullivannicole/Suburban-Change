@@ -29,8 +29,25 @@ If these trends in declining median home values persist, Type C census tracts mi
 Ensuring the vitality of these census tracts might also require public subsidies that can help stimulate market demand in these areas. For instance, strategic place-making investments that take advantage of growing racial and cultural diversity can boost private investment in Type C tracts. Similarly, supporting and attracting businesses oriented toward the needs of a more racially diverse clientele might not only enhance the economic standing of these areas, but also appeal to the changing preferences of the residents.
 </div>
 
-<div class = "typology-stats">
-![](imgs/C_key_stats.png)
+<div class = "typology-stats-c">
+<h3><b> Demographics </b></h3>
+<ul>
+<li>Steady inflow of poeple of color over time</li>
+<li> High and increasing share of residents aged 65+</li>
+<li> Moderate incomes stabilized after a decline in 2000s </li>
+</ul>
+<h3><b> Built environment </b></h3>
+<ul>
+<li>Historically white and workiing class</li>
+<li>Mostly developed</li>
+<li>Construction activity remained limited</li>
+</ul>
+<h3><b> Housing market </b></h3>
+<ul>
+<li> Most affordable housing stock </li>
+<li> Home values continued to decline </li>
+<li> Rents increased after the recession </li>
+</ul>
   </div>
 </div>
 
@@ -166,9 +183,9 @@ Community organizing can be an effective way to build relationships and create a
 </div>
 
 <br>
-<b><h3> Advance Racial Equity </b></h3>
+<b><h3> Racial Equity </b></h3>
 <br>
-Implementing strategies to advance racial equity and inclusion is important in communities with increased racial diversity. Communities should consider evaluating current policies and programs through an equity lens. This can help communities identify and address inequities that exist within its systems.
+Implementing strategies to advance racial equity and inclusion is especially important in communities with increasing racial diversity, as they may not have yet evaluated current practices through an equity lens. Communities should consider evaluating current policies and programs through an equity lens to help them identify and address inequities within their systems.  It is also important for communities to evaluate local services and amenities to ensure they provide for the needs of all residents.  Communities can achieve this by attracting and retaining businesses that serve racially diverse clientele.  They should also consider implementing technical assistance programs for minority-owned and small businesses.  Communities with an increasing population of people of color may also see an increase in residents for whom English is their second language.  These communities should consider providing translations of city documents or hiring multilingual staff members to serve these new residents.
 <br>
 <b><h4> Strategies </b></h4>
 <div class = "btn-header"
@@ -181,13 +198,7 @@ Equity and Inclusion Programs and Policies
 Communities should consider implementing explicit programs and policies to advance racial equity, as well as incorporate equity throughout all local policies, programs, and services. As a first step, several communities across the region have participated in the [Government Alliance on Race and Equity](https://www.racialequityalliance.org/) (GARE), a national network of government working to achieve racial equity. It provides tools and trainings to introduce the roles, responsibilities, and opportunities for government to advance racial equity. Communities may consider creating an advisory committee to ensure equity principles are considered in local decision-making. The City of Hopkins’ [Multicultural Advisory Committee](https://www.hopkinsmn.com/461/Multicultural-Advisory-Committee-MAC) assists the local police department to better serve, communicate with, and understand the City’s diverse population. Communities can also hire staff to lead their racial equity work as in the [City of St. Louis Park](https://www.stlouispark.org/our-city/race-equity) and the [City of Edina](https://www.edinamn.gov/1379/Race-Equity).    
 </div>
 </div>
-
 <br>
-<b><h3> Equitable Resource Distribution OR Provide Culturally-Appropriate Resources and Services  </b></h3>
-<br>
-As community demographics change, it is important to evaluate local services and amenities to ensure the community provides for the needs of all residents. Communities can achieve this by attracting and retaining businesses that serve racially diverse clientele. They should also consider implementing technical assistance programs for minority-owned and small businesses. Communities with an increasing population of people of color may also see an increase in residents for whom English is their second language. These communities should consider providing translations of city documents or hiring multilingual staff members to serve these new residents.
-<br>
-<b><h4> Strategies </b></h4>
 <div class = "btn-header"
 <h4><div class="btn-btn-primary" data-toggle="collapse" href="#collapseExample10" role="button" aria-expanded="false" aria-controls="collapseExample">
 Minority-Owned and Small Business Support Programs 

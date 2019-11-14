@@ -37,8 +37,24 @@ If the trends in declining median home values persist, Type B census tracts migh
 <br>
 </div>
 
-<div class = "typology-stats">
-![](imgs/B_key_stats.png)
+<div class = "typology-stats-b">
+<h3><b> Demographics </b></h3>
+<ul>
+<li>Racial diversity high and rapidly increasing</li>
+<li>Share of residents aged 65+ decreased and share of residents under age 18 static</li>
+<li>Income low but increasing</li>
+</ul>
+<h3><b> Built environment </b></h3>
+<ul>
+<li>Most tracts already located in developed first-ring suburbs</li>
+<li>Construction activity remained slowest</li>
+</ul>
+<h3><b> Housing market </b></h3>
+<ul>
+<li>Home values low and decreasing</li>
+<li>Rents low but increasing</li>
+<li> Share of renters remained the third-highest</li>
+</ul>
   </div>
 </div>
 
