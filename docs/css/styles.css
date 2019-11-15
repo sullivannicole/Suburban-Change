@@ -331,14 +331,26 @@ body{
 *
 */
 
+.main-container {
+  max-width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+}
+
 .navbar {
   font-family: "Century Gothic";
+  padding: 1vh;
+  margin: 0;
+  background-color: #292929;
+  border: #292929;
 }
 
 .navbar .navbar-header {
   font-family: "Century Gothic";
   font-size: 100px;
 }
+
 .navbar .nav-link {
   font-family: "Century Gothic";
   font-weight: 700;
@@ -356,6 +368,25 @@ body{
 .navbar-toggler:hover, .navbar-toggler:focus {
   background: #5091da;
   color: #fff;
+}
+
+#header.fluid-row {
+  margin: 0;
+  padding: 0;
+}
+
+#sub-change-logo {
+  height: auto;
+  width: 9em;
+  margin: 0;
+  padding: 0;
+}
+
+#sub-change {
+  height: 1.5em;
+  width: auto;
+  margin: 0;
+  padding: 0;
 }
 
 /*

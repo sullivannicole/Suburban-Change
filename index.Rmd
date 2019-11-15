@@ -1,4 +1,12 @@
-<link rel="stylesheet" href="css/styles.css">
+---
+title: ""
+output:
+  html_document:
+    excludes:
+      before_body: _navbar.html
+    includes:
+      before_body: navbar_home.html
+---
 
 <iframe src="https://public.tableau.com/views/AllTypologies/SuburbanChange?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameBorder="0" allowFullScreen />
 

@@ -340,3 +340,103 @@ body{
 background-color: white;
 border-color: white;
 }
+
+/* Style the buttons that are used to open and close the accordion panel */
+/*.accordion {
+  padding: 1vh;
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+/*Add a background color to the button if it is hovered over(add the .active class with JS), and when you move the mouse over it (hover)
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+/*Style the accordion panel. Note: hidden by default
+.panel {
+  padding: 1vh;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.accordion:after {
+  content: '\02795';
+  font-size: 13px;
+  color: #777;
+  float: right;
+  margin-left: 5px;
+}*/
+
+/*.active:after {
+  content: "\2796"; /*Unicode for -
+}*/
+
+/** This class will hide all the body by default **/
+/*accordion .acc-body{
+   display : none;
+}
+/** This class will show the body if it has "active" parent class. "active" class will be added to panel div **/
+/*accordion .active .acc-body {
+   display : block;
+}*/
+
+.btn-btn-primary {
+  padding: 1.5vh;
+  background-color: grey;
+  color: white;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  font-size: 15px;
+  font-family: Century Gothic;
+}
+
+.btn-btn-primary:hover {
+  background-color: #F5F5F5;
+  color: grey;
+}
+
+.card-card-body {
+  padding: 1vh;
+  background-color: white;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.btn-btn-primary2 {
+  padding: 1.5vh;
+  background-color: grey;
+  color: white;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  font-size: 15px;
+  font-family: Century Gothic;
+}
+
+.btn-btn-primary2:hover {
+  background-color: #F5F5F5;
+  color: grey;
+}
+
+.card-card-body2 {
+  padding: 1vh;
+  background-color: white;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
