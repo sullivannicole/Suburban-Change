@@ -257,49 +257,49 @@ body{
 .typology-stats-a{
   grid-column: col 4 / span 1;
   grid-row: row 1 / span 1;
-  border: 1vh solid #027b8e;
+  border: 1vh solid #fbdae4;
   padding: 4vh;
 }
 
 .typology-stats-b{
   grid-column: col 4 / span 1;
   grid-row: row 1 / span 1;
-  border: 1vh solid #74b88a;
+  border: 1vh solid #7a9bbd;
   padding: 4vh;
 }
 
 .typology-stats-c{
   grid-column: col 4 / span 1;
   grid-row: row 1 / span 1;
-  border: 1vh solid #31a1b3;
+  border: 1vh solid #c49bb9;
   padding: 4vh;
 }
 
 .typology-stats-d{
   grid-column: col 4 / span 1;
   grid-row: row 1 / span 1;
-  border: 1vh solid #563e68;
+  border: 1vh solid #c58e87;
   padding: 4vh;
 }
 
 .typology-stats-e{
   grid-column: col 4 / span 1;
   grid-row: row 1 / span 1;
-  border: 1vh solid #76b7b2;
+  border: 1vh solid #cfc785;
   padding: 4vh;
 }
 
 .typology-stats-f{
   grid-column: col 4 / span 1;
   grid-row: row 1 / span 1;
-  border: 1vh solid #ff9da7;
+  border: 1vh solid #a4cdc8;
   padding: 4vh;
 }
 
 .typology-stats-g{
   grid-column: col 4 / span 1;
   grid-row: row 1 / span 1;
-  border: 1vh solid #e377c2;
+  border: 1vh solid #f6d5b5;
   padding: 4vh;
 }
 
