@@ -34,7 +34,7 @@ In Type E census tracts, careful planning of large-scale, high-density infill an
 <div class = "typology-stats-e">
 <h3><b> Demographics </b></h3>
 <ul>
-<li>Mostly white becoming racially/ethnically more diverse</li>
+<li>Mostly white; becoming racially/ethnically more diverse</li>
 <li>Highest share of residents aged 65+</li>
 <li>Second-highest median income and increasing</li>
 <li>Influx of educated residents</li>
@@ -60,14 +60,14 @@ In Type E census tracts, careful planning of large-scale, high-density infill an
 </div>
 
 <div class = "issues-strategies">
-<b><h2> Issues + Strategies </h2></b>
+<b><h2> Trends + Strategies </h2></b>
 
 dulce et decorum est. dulce et decorum est. dulce et decorum est. <br>
 dulce et decorum est. dulce et decorum est. dulce et decorum est.
 
 ----------------
 
-<b><h3> Issue1 </b></h3>
+<b><h3> Trend1 </b></h3>
 dulce et decorum est. dulce et decorum est. dulce et decorum est. <br>
 dulce et decorum est. dulce et decorum est. dulce et decorum est.
 
@@ -94,7 +94,7 @@ dulce et decorum est
 
 ```
 
-<b><h3> Issue2 </b></h3>
+<b><h3> Trend2 </b></h3>
 dulce et decorum est. dulce et decorum est. dulce et decorum est. <br>
 dulce et decorum est. dulce et decorum est. dulce et decorum est.
 

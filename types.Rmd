@@ -90,11 +90,11 @@ Established communities of color, lowest income over time, limited construction,
 </div>
    
 <div class = "type-issues">
-<h3> Issues </h3>
+<h3> Trends </h3>
 <br><ul>
-<li>Issue 1</li>
-<li>Issue 2</li>
-<li>Issue 3</li>
+<li>Trend 1</li>
+<li>Trend 2</li>
+<li>Trend 3</li>
 </ul>
 </div>
 
@@ -121,11 +121,11 @@ Jurisdictions with high and rapidly increasing diversity, income low but increas
 </div>
    
 <div class = "type-issues">
-<h3> Issues </h3>
+<h3> Trends </h3>
 <br><ul>
-<li>Issue 1</li>
-<li>Issue 2</li>
-<li>Issue 3</li>
+<li>Trend 1</li>
+<li>Trend 2</li>
+<li>Trend 3</li>
 </ul>
 </div>
 
@@ -153,7 +153,7 @@ Jurisdictions with a steady inflow of people of color over time, moderate income
 </div>
    
 <div class = "type-opportunities">
-<h3> Opportunities </h3>
+<h3> Strategies </h3>
 <br><ul>
 <li>Senior Housing</li>
 <li>Age-Friendly Communities</li>
@@ -178,11 +178,11 @@ Established communities of color, lowest income over time, limited construction,
 </div>
    
 <div class = "type-issues">
-<h3> Issues </h3>
+<h3> Trends </h3>
 <br><ul>
-<li>Issue 1</li>
-<li>Issue 2</li>
-<li>Issue 3</li>
+<li>Trend 1</li>
+<li>Trend 2</li>
+<li>Trend 3</li>
 </ul>
 </div>
 
@@ -209,11 +209,11 @@ Established communities of color, lowest income over time, limited construction,
 </div>
    
 <div class = "type-issues">
-<h3> Issues </h3>
+<h3> Trends </h3>
 <br><ul>
-<li>Issue 1</li>
-<li>Issue 2</li>
-<li>Issue 3</li>
+<li>Trend 1</li>
+<li>Trend 2</li>
+<li>Trend 3</li>
 </ul>
 </div>
 
@@ -240,11 +240,11 @@ Established communities of color, lowest income over time, limited construction,
 </div>
    
 <div class = "type-issues">
-<h3> Issues </h3>
+<h3> Trends </h3>
 <br><ul>
-<li>Issue 1</li>
-<li>Issue 2</li>
-<li>Issue 3</li>
+<li>Trend 1</li>
+<li>Trend 2</li>
+<li>Trend 3</li>
 </ul>
 </div>
 
@@ -271,11 +271,11 @@ Established communities of color, lowest income over time, limited construction,
 </div>
    
 <div class = "type-issues">
-<h3> Issues </h3>
+<h3> Trends </h3>
 <br><ul>
-<li>Issue 1</li>
-<li>Issue 2</li>
-<li>Issue 3</li>
+<li>Trend 1</li>
+<li>Trend 2</li>
+<li>Trend 3</li>
 </ul>
 </div>
 

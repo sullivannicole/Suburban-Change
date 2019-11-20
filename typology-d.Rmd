@@ -58,14 +58,14 @@ Growing racial and cultural diversity can bring changes in the needs of the resi
 </div>
 
 <div class = "issues-strategies">
-<b><h2> Issues + Strategies </h2></b>
+<b><h2> Trends + Strategies </h2></b>
 
 dulce et decorum est. dulce et decorum est. dulce et decorum est. <br>
 dulce et decorum est. dulce et decorum est. dulce et decorum est.
 
 ----------------
 
-<b><h3> Issue1 </b></h3>
+<b><h3> Trend1 </b></h3>
 dulce et decorum est. dulce et decorum est. dulce et decorum est. <br>
 dulce et decorum est. dulce et decorum est. dulce et decorum est.
 
@@ -92,7 +92,7 @@ dulce et decorum est
 
 ```
 
-<b><h3> Issue2 </b></h3>
+<b><h3> Trend2 </b></h3>
 dulce et decorum est. dulce et decorum est. dulce et decorum est. <br>
 dulce et decorum est. dulce et decorum est. dulce et decorum est.
 
