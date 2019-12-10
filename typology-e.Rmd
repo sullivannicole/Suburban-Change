@@ -55,7 +55,7 @@ In Type E census tracts, careful planning of large-scale, high-density infill an
 <div class = "typology-viz-container">
 <div class = "typology-viz">
 <div class = "viz-header" style = "padding-bottom: 20px"><b><h2> Geography </h2></b></div>
-<iframe src = "https://public.tableau.com/views/E_15726731867990/ClusterB?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" width = "100%" height = "700" frameBorder = "0" ></iframe>
+<iframe src = "https://public.tableau.com/views/E_15726731867990/ClusterF?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" width = "100%" height = "700" frameBorder = "0" ></iframe>
 </div>
 </div>
 
