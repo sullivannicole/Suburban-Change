@@ -1,12 +1,7 @@
 ---
 title: ""
 output:
-  html_document:
-    excludes:
-      before_body: _navbar.html
-    includes:
-      before_body: navbar_home.html
+  html_document
 ---
 
-<iframe src="https://public.tableau.com/views/AllClusters_15727949977220/SuburbanChange?:embed=y&:display_count=yes&:showVizHome=no!:origin=viz_share_link" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameBorder="0" allowFullScreen />
-
+<iframe src="https://www.youtube.com/embed/7CBt-pdL-m0?loop=1&autoplay=1&mute=1&showinfo=0&controls=0&rel=0&playlist=7CBt-pdL-m0" frameborder="0" allow="autoplay; fullscreen; loop" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100vw; height:100vh; border:none; margin:0; padding:0;" allowfullscreen></iframe>

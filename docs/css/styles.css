@@ -10,6 +10,25 @@ html * {
    font-family: Century Gothic;
 }
 
+body{
+  margin: 0;
+  padding: 0;
+}
+
+* {padding:0;margin:0;box-sizing:border-box;}
+#video {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	height: 0;
+}
+#video iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
 /*
 *
 * =====================
@@ -17,11 +36,6 @@ html * {
 * =====================
 *
 */
-
-body{
-  margin: 0;
-  padding: 0;
-}
 
 .map-a {
   grid-column: col / span 2;
@@ -332,16 +346,27 @@ body{
 */
 
 .main-container {
-  max-width: 100%;
-  margin-left: 0;
-  margin-right: 0;
+  max-width: 120%;
+  margin: 0;
   padding: 0;
 }
 
+/* to change navbar alignment*/
+/*.container {
+  position: absolute;
+  margin: 3vw;
+  width: auto;
+}*/
+
 .navbar {
   font-family: "Century Gothic";
-  padding: 1vh;
+  /*padding: 1vh;*/
   margin: 0;
+  /*background: transparent;
+  border: transparent;*/
+  /*background-color: #292929;*/
+  /*background-color:rgba(41, 41, 41, 0.7);
+  border: transparent;*/
   background-color: #292929;
   border: #292929;
 }
